@@ -1,0 +1,208 @@
+
+
+
+    ul{
+            display: inline;
+            margin-right: 400px;
+            margin-left: 400px;
+        
+        }
+        .layout li{
+            display: inline;
+            margin-right: 10px;
+            margin-left: 10px;
+
+        }
+        @font-face {
+            font-family: 'BugeeShade';
+            src: url("/home/aravinth/html/design/images/fonts/fonts/BungeeShade-Regular.ttf");
+            font-weight:lighter;
+        }
+        h1{
+            font-family: 'BugeeShade';
+            text-align: center;
+            font-size: 4.25em;
+
+        }
+
+        @font-face{
+            font-family:  'roboto';
+        src: url("/home/aravinth/html/design/images/fonts/fonts/Roboto-Regular.ttf");
+        }
+
+        .deals{
+            font-family: 'roboto';
+            font-weight: normal;
+            color: grey;
+        }
+        @font-face {
+            font-family: 'roboto';
+            src: url("/home/aravinth/html/design/images/fonts/fonts/Roboto-Regular.ttf");
+        }
+
+        text{
+            font-family: 'Roboto';
+            margin-left: 80px;
+            padding-left: 10px;
+            color: grey;
+        }
+
+
+    a{    
+color: gray;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+padding: 6px;
+        }
+        a:hover
+        {
+            text-decoration: underline black ;
+        }
+        .firstlayer:hover
+        {
+            background-color: whitesmoke;
+        }
+        
+        text
+        {
+
+            color: gray;
+            text-decoration: none;
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 6px;
+            text-align: center;
+        }
+        text:hover
+        {
+            text-decoration: underline black;
+        }
+
+        #logos
+        {
+            display: inline;
+            margin-right: 400px;
+            margin-left: 400px;
+        }
+        .sell
+        {
+            display:inline-block;
+            margin-right: 10px;
+
+        }
+        img:hover
+        {
+            opacity: 0.5;
+        }
+        li
+        {
+            list-style:circle;
+        }
+        svg{
+
+            margin-left: 80px;
+            padding-left: 10px;
+            padding-top: 5px;
+            padding-right: 5px;
+
+        }
+        
+        .zenfonebg{
+            color: grey;
+        }
+        .zenfoneclass
+        {
+            
+            background-color: aliceblue;
+        }
+
+        #zenfoneimg
+        {
+            margin: 30px 20px 10px 600px;
+        }
+        .zenfonei
+        {
+            background-color: bisque;
+            border-radius: 2px;
+
+        }
+
+        #BUYbutton
+        {
+            color: white;
+            background-color: blue;
+            width: 330px;
+            height: 45px;
+            margin: 15px 0px 0px 5px;
+            font-size: medium;
+            border-radius: 10px;
+        }
+        #learnbutton
+        {
+            color: blue;
+            background-color: white;
+            width: 330px;
+            height: 45px;
+            margin:15px 0px 0px 5px;
+            font-size: medium;
+            border-radius: 10px;
+            border-color:  blue;
+            border-style: solid;
+        }
+        #learnbutton:hover
+        {
+            background-color: blue;
+            color: antiquewhite;
+        }  
+
+        
+        
+        #topbutton{
+            background-color: rgb(108, 126, 185);
+            color: white;
+            width: 330px;
+            height: 45px;
+            margin: 7px 0px 0px 500px;
+            border-radius: 15px;
+        }
+        .argb{
+                width: 700px;
+            }
+            .strix{
+                width: 318px;
+            }
+            .board{
+                width: 318px;
+            }
+            .star{
+                height: 205px;
+                width: 318px;
+            }
+            .mast{
+                height: 200px;
+                width: 318px;
+            }
+            #abc{
+        text-align: center;
+    }
+        .a{
+        padding-left: 10px;
+        }
+    .b{
+        padding-left: 10px;
+    }
+    .c{
+        padding-left: 10px;
+    }
+    .d{
+        padding-left: 10px;
+    }
+    .e{
+        padding-left: 10px;
+    }
+    .f{
+        padding-left: 10px;
+    }
+    .g{
+        padding-left: 10px;
+    }
+    
